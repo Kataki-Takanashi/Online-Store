@@ -39,7 +39,7 @@ public class MainScreen {
                 \tDisplay [C]art
                 \tDisplay [G]UI
                 \tExit    [X]
-                Enter Command:\s"""; //TODO: [G]UI Option and Store Name!
+                Enter Command:\s""";
         String selection;
 
         do {
